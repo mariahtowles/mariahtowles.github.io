@@ -1,0 +1,48 @@
+
+html {background-color: #c4ddff;
+}
+
+
+h1 { 
+margin: 20px;
+
+}
+
+.content {
+	display: flex;
+	justify-content: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	flex-direction: column;
+	background-color: white;
+	padding: 40px;
+}
+
+.heading {
+	text-align: center;
+}
+
+.tolietpic {
+	justify-content: center;
+	margin-left: 15%;
+}
+
+
+
+
+.maps {
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+	margin-bottom: 15px;
+}
+
+
+.restrooms {
+	width: 45%;
+}
+
+.poverty {
+	width: 45%;
+	padding-left: 10px;
+}
